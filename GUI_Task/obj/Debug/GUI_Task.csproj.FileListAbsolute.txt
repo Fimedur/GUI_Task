@@ -1,0 +1,20 @@
+C:\Users\USER\source\repos\GUI_Task\GUI_Task\bin\Debug\GUI_Task.exe.config
+C:\Users\USER\source\repos\GUI_Task\GUI_Task\bin\Debug\GUI_Task.exe
+C:\Users\USER\source\repos\GUI_Task\GUI_Task\bin\Debug\GUI_Task.pdb
+C:\Users\USER\source\repos\GUI_Task\GUI_Task\obj\Debug\GUI_Task.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\GUI_Task\GUI_Task\obj\Debug\GUI_Task.Form1.resources
+C:\Users\USER\source\repos\GUI_Task\GUI_Task\obj\Debug\GUI_Task.Properties.Resources.resources
+C:\Users\USER\source\repos\GUI_Task\GUI_Task\obj\Debug\GUI_Task.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\GUI_Task\GUI_Task\obj\Debug\GUI_Task.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GUI_Task\GUI_Task\obj\Debug\GUI_Task.exe
+C:\Users\USER\source\repos\GUI_Task\GUI_Task\obj\Debug\GUI_Task.pdb
+C:\Web development\GUI_Task\GUI_Task\bin\Debug\GUI_Task.exe.config
+C:\Web development\GUI_Task\GUI_Task\bin\Debug\GUI_Task.exe
+C:\Web development\GUI_Task\GUI_Task\bin\Debug\GUI_Task.pdb
+C:\Web development\GUI_Task\GUI_Task\obj\Debug\GUI_Task.csprojAssemblyReference.cache
+C:\Web development\GUI_Task\GUI_Task\obj\Debug\GUI_Task.Form1.resources
+C:\Web development\GUI_Task\GUI_Task\obj\Debug\GUI_Task.Properties.Resources.resources
+C:\Web development\GUI_Task\GUI_Task\obj\Debug\GUI_Task.csproj.GenerateResource.cache
+C:\Web development\GUI_Task\GUI_Task\obj\Debug\GUI_Task.csproj.CoreCompileInputs.cache
+C:\Web development\GUI_Task\GUI_Task\obj\Debug\GUI_Task.exe
+C:\Web development\GUI_Task\GUI_Task\obj\Debug\GUI_Task.pdb
